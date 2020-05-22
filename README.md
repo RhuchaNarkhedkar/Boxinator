@@ -57,7 +57,16 @@ npm start -- --port 8080
 
 11.	Run as -->Spring Boot App. 
 
-12. Below are the URL's to test application.
+
+### To run project through command prompt follow below steps
+1. open command pompt in /Frontend/boxinator and execute below command
+2. npm install
+3. npm start -- --port 8080
+4. open command pompt in /Backend/Boxinator and execute below command
+6. mvn clean install
+7. mvn spring-boot:run
+
+###  Below are the URL's to test application.
 
 http://localhost:8080/addbox
 http://localhost:8080/listboxes
