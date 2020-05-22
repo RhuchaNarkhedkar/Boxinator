@@ -12,7 +12,7 @@
 -	Node JS
 
 ## Getting Started
-1.	Pull the project from github
+1.	Download the project from github to local directory
 
 ### Connect to database
 2.	Start MySQL workbench and connect to local database. 
