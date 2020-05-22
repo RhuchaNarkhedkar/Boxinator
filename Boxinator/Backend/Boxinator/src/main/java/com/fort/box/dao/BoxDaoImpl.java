@@ -6,10 +6,11 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-
+import org.springframework.stereotype.Repository;
 import com.fort.box.model.Box;
 import com.fort.box.util.DatabaseConnection;
 
+@Repository
 public class BoxDaoImpl implements BoxDao{
 	static Connection con = DatabaseConnection.getConnection(); 
 	
