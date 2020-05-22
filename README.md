@@ -8,6 +8,7 @@
 ## Tools(Prerequisites)
 -	Development enviornment: Spring Tool Suite(STS/Eclipse) with CodeMix Plugin for React.
 -	MySQL database(Server and workbench)
+-   Maven
 -	Node JS
 
 ## Getting Started
